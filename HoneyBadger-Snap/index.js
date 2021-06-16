@@ -1,6 +1,6 @@
 function honeybadgerAuditApi(address) {
   return new Promise(resolve => {
-    fetch('https://honeybadger.uni.lu/api/v1.0/audit/'+address)
+    fetch('http://127.0.0.1/contracts/'+address)
     .then((response) => {
       return response.json();
     }).then((result) => {
