@@ -8,11 +8,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Christof Torres",
+  "author": "Kayiz",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/christoftorres/MetaMask-HoneyBadger-Plugin.git"
+    "url": "git+https://github.com/Kayiz-PT/MetaMask-HoneyBadger-Plugin.git"
   },
   "web3Wallet": {
     "bundle": {
